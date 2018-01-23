@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "web3": "^0.20.4"
+  },
+  "name": "depay",
+  "version": "1.0.0",
+  "description": "Decentralized social payments",
+  "main": "dist/index.js",
+  "author": "Brian Wheeler",
+  "license": "MIT"
+}
